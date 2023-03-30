@@ -78,18 +78,18 @@ Streamlit
 ### Below are examples of the app running in Streamlit
 
 Initial Image of Ganache
-![pic1](./images/initial_image.png)
+![pic1](./Images/initial_image.png)
 
 ETH confirmation based on hours
-![pic3](./images/confirmation.png)
+![pic3](./Images/confirmation.png)
 
 Ganache Balance updated 
 
-![pic2](./images/balance_refelcted%20.png)
+![pic2](./Images/balance_refelcted%20.png)
 
 Streamlit
 
-![pic4](./images/streamlit.png)
+![pic4](./Images/streamlit.png)
 
 
 
