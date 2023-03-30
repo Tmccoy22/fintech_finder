@@ -1,5 +1,5 @@
 # Fintech Finder
-This is a Visual Studio notebook that integrates two files will allow you to automate the tasks associated with generating a digital wallet, accessing Ethereum account balances, and signing and sending transactions via a personal Ethereum blockchain called Ganache.  Fintech Finder is an application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them. I have included pictures of the interface as well. 
+This is a Visual Studio notebook that integrates two files that will allow you to automate the tasks associated with generating a digital wallet, accessing Ethereum account balances, and signing and sending transactions via a personal Ethereum blockchain called Ganache.  Fintech Finder is an application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them. I have included pictures of the interface as well. 
 ---
 
 ## Technologies
